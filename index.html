@@ -7,7 +7,11 @@
 
     <!-- LuciadRIA -->
     <script>
-      window.__LUCIAD_ROOT__ = './luciad-map-demo/assets/luciad';
+      if (location.hostname === 'localhost') {
+        window.__LUCIAD_ROOT__ = './assets/luciad';
+      } else {
+        window.__LUCIAD_ROOT__ = './luciad-map-demo/assets/luciad';
+      }
     </script>
     <script type="module" crossorigin src="/luciad-map-demo/assets/index-Dpi1Wbt8.js"></script>
     <link rel="stylesheet" crossorigin href="/luciad-map-demo/assets/index-DJ2sUqtl.css">
