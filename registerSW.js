@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/luciad-map-demo/sw.js', { scope: '/luciad-map-demo/' })})}
