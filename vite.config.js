@@ -9,7 +9,7 @@ export default defineConfig(() => {
   const env = loadEnv(null, process.cwd(), '');
 
   return {
-    base: '/luciad-map-demo/',
+    base: `/${env.NAME}/`,
     plugins: [
       react(),
       tsconfigPaths(),

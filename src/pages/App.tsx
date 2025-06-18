@@ -50,14 +50,8 @@ export const App = () => {
     map.invalidate();
   }
 
-  // command: CreateLayerInfo
   const createLayer = async (command) => {
     const layer = await LayerFactory.createLayer(command, performanceSettingsService);
-
-    // 3016 - buildings
-    // 3017 - mountains
-    // 3018 - underwater pointcloud
-    // 3019 - over water pointcloud
 
     if (!layer || !map) return null;
 
@@ -183,10 +177,7 @@ export const App = () => {
 
     loadCameraPositionFromUrl();
     initMapListeners();
-
-    getLayers().then((layers) => {
-      layers.forEach((layer) => createLayer(layer));
-    });
+    getLayers().forEach((layer) => createLayer(layer));
   }, []);
 
   return (

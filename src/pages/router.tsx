@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 
-import App from "./App";
+import { BASE_PATH } from "consts/const";
 
-const BASE_PATH = "/luciad-map-demo/";
+import App from "./App";
 
 export const router = createBrowserRouter([
   {
