@@ -1,0 +1,511 @@
+{
+  "browser": {
+    "platform": "MacIntel",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15",
+    "framerate": 77,
+    "GPU": {
+      "vendor": "Apple Inc.",
+      "renderer": "Apple GPU"
+    }
+  },
+  "WebGLSupport": true,
+  "framerate": {
+    "min": 0.31,
+    "max": 77.23,
+    "avarage": 43.2,
+    "record": [
+      {
+        "fps": 37.18,
+        "timestamp": 511
+      },
+      {
+        "fps": 41.1,
+        "timestamp": 1011
+      },
+      {
+        "fps": 38.76,
+        "timestamp": 1516
+      },
+      {
+        "fps": 22.9,
+        "timestamp": 2024
+      },
+      {
+        "fps": 29.13,
+        "timestamp": 2515
+      },
+      {
+        "fps": 2.61,
+        "timestamp": 4803
+      },
+      {
+        "fps": 0.53,
+        "timestamp": 4874
+      },
+      {
+        "fps": 0.71,
+        "timestamp": 4912
+      },
+      {
+        "fps": 1.06,
+        "timestamp": 4945
+      },
+      {
+        "fps": 3.93,
+        "timestamp": 5009
+      },
+      {
+        "fps": 36.75,
+        "timestamp": 5517
+      },
+      {
+        "fps": 49.12,
+        "timestamp": 6009
+      },
+      {
+        "fps": 59.76,
+        "timestamp": 6502
+      },
+      {
+        "fps": 58,
+        "timestamp": 7000
+      },
+      {
+        "fps": 3.63,
+        "timestamp": 10033
+      },
+      {
+        "fps": 0.31,
+        "timestamp": 10733
+      },
+      {
+        "fps": 0.36,
+        "timestamp": 10779
+      },
+      {
+        "fps": 0.43,
+        "timestamp": 10805
+      },
+      {
+        "fps": 0.55,
+        "timestamp": 10825
+      },
+      {
+        "fps": 0.74,
+        "timestamp": 10844
+      },
+      {
+        "fps": 1.16,
+        "timestamp": 10863
+      },
+      {
+        "fps": 15.81,
+        "timestamp": 11006
+      },
+      {
+        "fps": 59.17,
+        "timestamp": 11507
+      },
+      {
+        "fps": 59.17,
+        "timestamp": 12007
+      },
+      {
+        "fps": 59.88,
+        "timestamp": 12501
+      },
+      {
+        "fps": 59.88,
+        "timestamp": 13001
+      },
+      {
+        "fps": 60,
+        "timestamp": 13500
+      },
+      {
+        "fps": 60,
+        "timestamp": 14000
+      },
+      {
+        "fps": 58.37,
+        "timestamp": 14514
+      },
+      {
+        "fps": 37.18,
+        "timestamp": 15011
+      },
+      {
+        "fps": 20,
+        "timestamp": 15500
+      },
+      {
+        "fps": 23.81,
+        "timestamp": 16046
+      },
+      {
+        "fps": 19.08,
+        "timestamp": 16524
+      },
+      {
+        "fps": 22.68,
+        "timestamp": 17029
+      },
+      {
+        "fps": 35.57,
+        "timestamp": 17506
+      },
+      {
+        "fps": 45.1,
+        "timestamp": 18010
+      },
+      {
+        "fps": 54.16,
+        "timestamp": 18517
+      },
+      {
+        "fps": 54.47,
+        "timestamp": 19014
+      },
+      {
+        "fps": 54.47,
+        "timestamp": 19514
+      },
+      {
+        "fps": 56.97,
+        "timestamp": 20009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 20509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 21009
+      },
+      {
+        "fps": 54.69,
+        "timestamp": 21512
+      },
+      {
+        "fps": 54.69,
+        "timestamp": 22012
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 22509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 23009
+      },
+      {
+        "fps": 56.86,
+        "timestamp": 23510
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 24009
+      },
+      {
+        "fps": 59.06,
+        "timestamp": 24508
+      },
+      {
+        "fps": 56.97,
+        "timestamp": 25009
+      },
+      {
+        "fps": 50.29,
+        "timestamp": 25517
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 26009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 26509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 27009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 27509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 28009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 28509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 29009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 29509
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 30009
+      },
+      {
+        "fps": 59.06,
+        "timestamp": 30508
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 31009
+      },
+      {
+        "fps": 58.94,
+        "timestamp": 31509
+      },
+      {
+        "fps": 7.34,
+        "timestamp": 33407
+      },
+      {
+        "fps": 0.68,
+        "timestamp": 33466
+      },
+      {
+        "fps": 1,
+        "timestamp": 33496
+      },
+      {
+        "fps": 1.94,
+        "timestamp": 33516
+      },
+      {
+        "fps": 56.42,
+        "timestamp": 34014
+      },
+      {
+        "fps": 59.52,
+        "timestamp": 34504
+      },
+      {
+        "fps": 63.87,
+        "timestamp": 35001
+      },
+      {
+        "fps": 65.48,
+        "timestamp": 35504
+      },
+      {
+        "fps": 64.83,
+        "timestamp": 36009
+      },
+      {
+        "fps": 61.88,
+        "timestamp": 36501
+      },
+      {
+        "fps": 71.43,
+        "timestamp": 37004
+      },
+      {
+        "fps": 65.89,
+        "timestamp": 37516
+      },
+      {
+        "fps": 23.03,
+        "timestamp": 38021
+      },
+      {
+        "fps": 28,
+        "timestamp": 38500
+      },
+      {
+        "fps": 32.82,
+        "timestamp": 39018
+      },
+      {
+        "fps": 30.53,
+        "timestamp": 39524
+      },
+      {
+        "fps": 28.85,
+        "timestamp": 40020
+      },
+      {
+        "fps": 26.12,
+        "timestamp": 40536
+      },
+      {
+        "fps": 22.73,
+        "timestamp": 41028
+      },
+      {
+        "fps": 24.57,
+        "timestamp": 41529
+      },
+      {
+        "fps": 9.14,
+        "timestamp": 42047
+      },
+      {
+        "fps": 23.86,
+        "timestamp": 42503
+      },
+      {
+        "fps": 32,
+        "timestamp": 43000
+      },
+      {
+        "fps": 40.38,
+        "timestamp": 43520
+      },
+      {
+        "fps": 40.38,
+        "timestamp": 44020
+      },
+      {
+        "fps": 43.39,
+        "timestamp": 44507
+      },
+      {
+        "fps": 53.05,
+        "timestamp": 45009
+      },
+      {
+        "fps": 69.72,
+        "timestamp": 45502
+      },
+      {
+        "fps": 77.23,
+        "timestamp": 46005
+      },
+      {
+        "fps": 65.76,
+        "timestamp": 46517
+      },
+      {
+        "fps": 49.9,
+        "timestamp": 47001
+      },
+      {
+        "fps": 44.83,
+        "timestamp": 47513
+      },
+      {
+        "fps": 34.22,
+        "timestamp": 48026
+      },
+      {
+        "fps": 31.81,
+        "timestamp": 48503
+      },
+      {
+        "fps": 34.22,
+        "timestamp": 49026
+      },
+      {
+        "fps": 31.25,
+        "timestamp": 49512
+      },
+      {
+        "fps": 35.57,
+        "timestamp": 50006
+      },
+      {
+        "fps": 35.93,
+        "timestamp": 50501
+      },
+      {
+        "fps": 34.75,
+        "timestamp": 51018
+      },
+      {
+        "fps": 33.46,
+        "timestamp": 51508
+      },
+      {
+        "fps": 38.46,
+        "timestamp": 52020
+      },
+      {
+        "fps": 37.85,
+        "timestamp": 52502
+      },
+      {
+        "fps": 56.97,
+        "timestamp": 53009
+      },
+      {
+        "fps": 53.89,
+        "timestamp": 53501
+      },
+      {
+        "fps": 51.72,
+        "timestamp": 54022
+      },
+      {
+        "fps": 35.43,
+        "timestamp": 54508
+      },
+      {
+        "fps": 51.38,
+        "timestamp": 55006
+      },
+      {
+        "fps": 40.86,
+        "timestamp": 55514
+      },
+      {
+        "fps": 37.18,
+        "timestamp": 56011
+      },
+      {
+        "fps": 43.48,
+        "timestamp": 56506
+      },
+      {
+        "fps": 43.65,
+        "timestamp": 57004
+      },
+      {
+        "fps": 51.18,
+        "timestamp": 57508
+      },
+      {
+        "fps": 50.58,
+        "timestamp": 58014
+      },
+      {
+        "fps": 53.47,
+        "timestamp": 58505
+      },
+      {
+        "fps": 56.31,
+        "timestamp": 59015
+      },
+      {
+        "fps": 54.58,
+        "timestamp": 59513
+      },
+      {
+        "fps": 59.64,
+        "timestamp": 60003
+      },
+      {
+        "fps": 66.15,
+        "timestamp": 60514
+      },
+      {
+        "fps": 72.27,
+        "timestamp": 61012
+      },
+      {
+        "fps": 57.77,
+        "timestamp": 61502
+      }
+    ]
+  }
+}
